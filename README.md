@@ -28,5 +28,30 @@ The analysis of the election show that:
      - Diana DeGette, who received 73.8% of the votes and 272,892 number of votes.
 
 ## Challenge Overview
+The election commission has requested additional data for their audit.
+1. The voter turnout for each county
+2. The percentage of votes from each county out of the total count.
+3. The county with the highest turnout
 
-## Challenge Summary
+## Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
+County Votes:
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+-------------------------
+Largest County Turnout Denver
+-------------------------
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------
+
+## Conclusion
+Although this script was built for this election, it can be used for future elections as long as a few things are updated. The file of course will be different thus file location will need to be updated. Any additional naming conventions can be updated to better suit the purpose, such as column naming/titles in the csv.
